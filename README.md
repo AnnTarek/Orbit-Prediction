@@ -12,7 +12,7 @@ The dataset is a uni-feature dataset; it has only 1 feature: the time orbit loca
 3. Run the whole code to see the results by yourself.
 
 **Model prediction and scientist's orbit positions (actual positions)**
-![Uploading 2024-10-13_21-41.png…]()
+![Alt text](modelPrediction.png)
 
 
 **Dependencies**:
